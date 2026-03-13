@@ -1,0 +1,12 @@
+{
+  "P001": {"name": "Akash Sharma", "city": "Delhi", "age": 25, "gender": "male", "height": "5'10", "weight": 50.0, "bmi": 15.8, "verdict": "Underweight"},
+  "P002": {"name": "Sanya Malhotra", "city": "Mumbai", "age": 28, "gender": "female", "height": "5'4", "weight": 62.0, "bmi": 23.5, "verdict": "Normal"},
+  "P003": {"name": "Vikram Singh", "city": "Bangalore", "age": 34, "gender": "male", "height": "6'0", "weight": 85.0, "bmi": 25.4, "verdict": "Overweight"},
+  "P004": {"name": "Ananya Iyer", "city": "Chennai", "age": 22, "gender": "female", "height": "5'2", "weight": 48.0, "bmi": 19.4, "verdict": "Normal"},
+  "P005": {"name": "Rohan Das", "city": "Kolkata", "age": 41, "gender": "male", "height": "5'8", "weight": 95.0, "bmi": 31.7, "verdict": "Obese"},
+  "P006": {"name": "Meera Joshi", "city": "Pune", "age": 29, "gender": "female", "height": "5'6", "weight": 55.0, "bmi": 19.7, "verdict": "Normal"},
+  "P007": {"name": "Arjun Reddy", "city": "Hyderabad", "age": 37, "gender": "male", "height": "5'11", "weight": 78.0, "bmi": 23.9, "verdict": "Normal"},
+  "P008": {"name": "Priya Kapoor", "city": "Chandigarh", "age": 31, "gender": "female", "height": "5'3", "weight": 70.0, "bmi": 27.2, "verdict": "Overweight"},
+  "P009": {"name": "Kabir Mehta", "city": "Ahmedabad", "age": 45, "gender": "male", "height": "5'7", "weight": 68.0, "bmi": 23.4, "verdict": "Normal"},
+  "P010": {"name": "Ishani Verma", "city": "Lucknow", "age": 26, "gender": "female", "height": "5'5", "weight": 42.0, "bmi": 15.4, "verdict": "Underweight"}
+}
